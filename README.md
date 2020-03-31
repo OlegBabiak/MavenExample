@@ -1,2 +1,2 @@
    MavenExample
- !MavenExample(screenshot/MavenExample.png "MavenExample")
+ ![MavenExample](screenshot/MavenExample.png "MavenExample")
